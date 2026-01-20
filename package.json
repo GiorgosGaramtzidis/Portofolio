@@ -2,9 +2,12 @@
   "name": "portfolio-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://GiorgosGaramtzidis.github.io/Portofolio",
   "type": "module",
   "scripts": {
+    
     "dev": "vite",
+    
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
